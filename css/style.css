@@ -9088,6 +9088,10 @@ textarea.form-control {
 .ftco-bg-dark {
   background: #3c312e; }
 
+#footer-section{
+  padding-right: 15px
+}
+
 .ftco-footer {
   font-size: 16px;
   background: #000000;
