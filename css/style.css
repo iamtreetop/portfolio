@@ -488,6 +488,11 @@ pre {
     margin: 0;
 }
 
+#contact-form {
+  display: flex;
+  justify-content: center;
+}
+
 .no-gutters {
   margin-right: 0;
   margin-left: 0; }
