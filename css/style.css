@@ -6642,6 +6642,10 @@ button.bg-dark:focus {
 .mx-4 {
   margin-right: 1.5rem !important; }
 
+#hometown{
+  color: #3e64ff;
+}
+
 .mb-4,
 .my-4 {
   margin-bottom: 1.5rem !important; }
