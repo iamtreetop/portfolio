@@ -9093,7 +9093,13 @@ textarea.form-control {
   background: #3c312e; }
 
 #footer-section{
-  padding-right: 15px
+  padding: 15px
+}
+
+#footer-widgets {
+  justify-content: center;
+  display: flex;
+  align-items: center;
 }
 
 .ftco-footer {
